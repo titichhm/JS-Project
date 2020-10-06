@@ -1,0 +1,100 @@
+{
+	"landing": {
+		"firstName": "Titichh",
+		"lastName": "Mishra",
+		
+		"bio": "I am a B.Tech 3rd year student at VIT Vellore.Currently I am learning applications of Machine Learning.I use reactJS for front-end development.I am also doing some competitive coding for interview preparations",
+    		
+		"github": "github/titichhm"
+	},
+	"experience": [
+		{
+				"position": "Web Developer Intern",
+				"organization": "FindMind Analytics",
+				"aboutWork": "I was working as a junior React JS developer.My work was mostly related to developing static pages using reactJS and bootstrap. ",
+				"fromDate": "July 2019",
+				"toDate": "September 2019"
+		},
+		{
+			"position": "Technical Core Committee Member",
+			"organization": "SIAM",
+			"aboutWork": "I was part of technical team in a student chapter at VIT,mainly dealing with web development.",
+			"fromDate": "December 2018",
+			"toDate": "January 2019"
+		},
+		{
+			"position": "Design Core Committee Member",
+			"organization": "SIAM",
+			"aboutWork": "At the same student chapter,I was doing design also.",
+			"fromDate": "December 2018",
+			"toDate": "January 2019"
+		}
+	],
+	
+	"education": [{
+			"university": "Vellore Institute of Technology",
+			"degree": "Bachelor of Technology",
+			"fromDate": "July 2017",
+			"toDate": "Present",
+			"gpa":"8.0"
+		},
+		{
+			"university":"Scholars' Home",
+			"degree": "Class 12th",
+			"fromDate":"April 2015",
+			"toDate":"April 2017",
+			"gpa":"85%"
+		},
+		{
+			"university":"Lucknow Public School",
+			"degree": "Class 10th",
+			"fromDate":"April 2013",
+			"toDate":"March 2015",
+			"gpa":"8.8"
+		}
+    	
+	],
+
+	"skills": 
+	[{
+			"name": "React"
+		},
+		{
+			"name": "HTML5"
+		},
+		{
+			"name":  "CSS3"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "Python"
+		},
+    	{
+			"name":"C++"
+		},
+		{
+			"name":"Adobe Photoshop"
+		},
+		{
+			"name":"Git"
+		},	
+		{
+			"name":"linux"
+		}
+	],
+
+	"interests": {
+		"paragraphOne": "I like to explore new domains from time to time.Like making games in unity or doing creative work in photoshop.This way,you will always keep finding something exciting to keep yourself busy with.",
+		"paragraphTwo": "Other than that,my hobbies are to visit new places in vacations and playing video games.I am a huge space nerd."
+	},
+
+	"awards": [{
+			"awardDetail": "Your first award"
+		},
+		{
+			"awardDetail": "Your second award"
+		}
+	]
+}
